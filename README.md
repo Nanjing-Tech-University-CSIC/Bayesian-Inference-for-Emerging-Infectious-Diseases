@@ -24,4 +24,9 @@ populations=11000000;
 
 Detailed result data for the experiments described in the text can be viewed in the [results](https://github.com/Nanjing-Tech-University-CSIC/Bayesian-Inference-for-Emerging-Infectious-Diseases/tree/main/result) folder
 
-- 
+- [simulation experiment](https://github.com/Nanjing-Tech-University-CSIC/Bayesian-Inference-for-Emerging-Infectious-Diseases/tree/main/result/simulation%20experiment%20)
+- [nanjing](https://github.com/Nanjing-Tech-University-CSIC/Bayesian-Inference-for-Emerging-Infectious-Diseases/tree/main/result/nanjing)
+- [wuhan](https://github.com/Nanjing-Tech-University-CSIC/Bayesian-Inference-for-Emerging-Infectious-Diseases/tree/main/result/wuhan)
+- [shanghai](https://github.com/Nanjing-Tech-University-CSIC/Bayesian-Inference-for-Emerging-Infectious-Diseases/tree/main/result/shanghai)
+- [robustness](https://github.com/Nanjing-Tech-University-CSIC/Bayesian-Inference-for-Emerging-Infectious-Diseases/tree/main/result/robustness)
+- [length of the observational time series](https://github.com/Nanjing-Tech-University-CSIC/Bayesian-Inference-for-Emerging-Infectious-Diseases/tree/main/result/length%20of%20the%20observational%20time%20series)
